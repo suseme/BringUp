@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, BringupActivity!</string>
+    <string name="app_name">Bringup</string>
+    <string name="birthday">birthday</string>
+    <string name="height">height</string>
+    <string name="weight">weight</string>
+    <string name="cm">cm</string>
+    <string name="kg">kg</string>
+    <string name="headcircumference">head circumference</string>
+    <string name="memorize">memorize</string>
+    <string name="result">result</string>
+    <string name="setting">setting</string>
+    <string name="name">name</string>
+    <string name="days_format">is %1$d years %2$d months %3$d days (%4$d days) old.</string>
+    <string name="record">record</string>
+    <string name="title_days_format"> (%1$d days)</string>
+
+</resources>
